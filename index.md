@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Aria's First CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,14 +13,18 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
-#### Header 4
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+
+- Things interested me in this course
+ 1) GitHub experience
+ 2) Meet with new instrutors and classmates
+ 3) Labs
+
+- Things annoyed me in about cs
+ 1) AP CS A test
+ 2) Coding on Dr.Java
+ 3) Java
 
 **Bold** and _Italic_ and `Code` text
 
